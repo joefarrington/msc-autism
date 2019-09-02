@@ -1,2 +1,4 @@
 # msc-autism
-Code for MSc project
+Code for project "Understanding behavioural differences in syndromic Autism Spectrum Disorder".
+Thesis based on this code submitted as part of MSc Machine Learning at University College London in September 2019.
+
